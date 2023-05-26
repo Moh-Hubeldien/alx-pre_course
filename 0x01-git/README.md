@@ -1,3 +1,1 @@
-# lax_pre_course
-
-# Update READEME File
+["git pull"]
