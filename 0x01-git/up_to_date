@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [master ae66486] How to be up to date in git
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 0x01-git/up_to_date
@@ -11,3 +12,6 @@ Total 3 (delta 1), reused 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/Moh-Hubeldien/alx-pre_course.git
    d841b90..ae66486  master -> master
+=======
+["git pull"]
+>>>>>>> 03c7af87f1b572237e611145aacb6f9018c1270b
